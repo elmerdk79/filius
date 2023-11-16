@@ -5,7 +5,7 @@ RUN yes y | sudo apt install default-jre
 
 WORKDIR /tmp
 
-RUN curl -o filius.deb https://www.lernsoftware-filius.de/downloads/Setup/filius_1.13.2_all.deb
+RUN curl -o filius.deb https://www.lernsoftware-filius.de/downloads/Setup/filius_1.14.2_all.deb
 
 
 
